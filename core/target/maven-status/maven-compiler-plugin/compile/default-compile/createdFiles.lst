@@ -1,0 +1,5 @@
+co\unicauca\workflow\degree_project\Application.class
+co\unicauca\workflow\degree_project\plugin\manager\ReportPluginManager.class
+co\unicauca\workflow\degree_project\presentation\Console.class
+co\unicauca\workflow\degree_project\business\ProjectService.class
+co\unicauca\workflow\degree_project\business\ReportService.class
